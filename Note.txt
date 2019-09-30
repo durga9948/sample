@@ -1,3 +1,5 @@
 git init
 git status
+git add sample.txt or .
+git commit -m 'Html file created'
 git remote add origin https://github.com/durga9948/sample.git
