@@ -1,0 +1,3 @@
+git init
+git status
+git remote add origin https://github.com/durga9948/sample.git
